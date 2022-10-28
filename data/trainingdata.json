@@ -1,0 +1,58 @@
+[
+    {
+        "question": "Pekalla on kolme omenaa. Martti antaa hänelle yhden. Kuinka monta omenaa pekalle jää?",
+        "interphases": [
+            "3 + 1 = 4"
+        ],
+        "answer": "Pekalle jää neljä omenaa."
+    },
+    {
+        "question": "Timolla on kolme banaania. Häneltä otetaan yksi pois. Kuinka monta banaania Timolle jää",
+        "interphases": [
+            "3 - 1 = 2"
+        ],
+        "answer": "Timolle jää kaksi omenaa."
+    },
+    {
+       "question": "Vennillä on yksi omena. Hänelle annetaan toinen. Kuinka monta omenaa Vennillä lopuksi on?",
+       "interphases": [
+            "1 + 1 = 2"
+       ],
+       "answer": "Vennillä on kaksi omenaa."
+    },
+    {
+        "question": "Timolla on viisi olutta. Raimo juo niistä kaksi. Kuinka monta olutta Timolle jää?",
+        "interphases": [
+            "5 - 2 = 3"
+        ],
+        "answer": "Timolle jää neljä olutta."
+    },
+    {
+        "question": "Mirvalla on kolme euroa. Pirjo ottaa häneltä ne kaikki. Kuinka monta euroa Mirvalla on?",
+        "interphases": [
+            "3 - 3 = 0"
+        ],
+        "answer": "Mirvalle ei jää yhtään rahaa."
+    },
+    {
+        "question": "Aarnella on kolme tietokonetta. Aarnelle annetaan yksi lisää. Kuinka monta tietokonetta Aarnella on?",
+        "interphases": [
+            "3 + 1 = 4"
+        ],
+        "answer": "Aarnella on neljä tietokonetta."
+    },
+    {
+        "question": "Jonnella on viisi olutta. Raimo juo niistä kaksi. Kuinka monta oluta Timolle jää?",
+        "interphases": [
+            "5 - 2 = 3"
+        ],
+        "answer": "Jonnelle jää kolme olutta."
+    },
+    {
+        "question": "Hannalla yksi omena. Hänelle annetaan toinen. Kuinka monta omenaa Hannalla on?",
+        "interphases": [
+            "1 + 2 = 2"
+        ],
+        "answer": "Hannalle jää kaksi omenaa."
+    }
+]
