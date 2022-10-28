@@ -1,5 +1,7 @@
 # MatikkAI
 
+Warning: Not ready to use. In development. Anyone can contribute! Even without coding skills!
+
 ## Finnish - Sanallisten tehtävien ratkaisin
 MatkikkAI on työkalu sanallisten matemaattisten tehtävien ratkaisuun.
 
@@ -11,7 +13,9 @@ To contribute, fork this repo. Best ways to contribute are extending + writing t
 
 ## Usage
 
-Navigate to /src and run 'node ask.js {your query here}'
+First install packages at src/ with `npm install` command
+Navigate to /src and run `node ask.js {your query here}`
 
-example at /src:
+Example of asking a math question at /src:
 `node ask.js "Pekalla on yksi banaani. Timo antaa hänelle toisen. Kuinka monta banaania Pekalla on?"`
+
